@@ -17,17 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron/windows-sign.git"
+    "url": "git+https://github.com/photostructure/windows-sign.git"
   },
   "author": {
     "name": "Felix Rieseberg",
     "email": "felix@felixrieseberg.com"
   },
   "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/electron/windows-sign/issues"
-  },
-  "homepage": "https://github.com/electron/windows-sign",
   "dependencies": {
     "cross-dirname": "^0.1.0",
     "debug": "^4.3.4",
