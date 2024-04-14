@@ -24,6 +24,9 @@
     "email": "felix@felixrieseberg.com"
   },
   "license": "BSD-2-Clause",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "cross-dirname": "^0.1.0",
     "debug": "^4.3.4",
